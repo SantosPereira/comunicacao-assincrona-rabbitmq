@@ -1,6 +1,6 @@
 # Micro-serviços com Python e Node
 
-Baseado num artigo em: <https://medium.com/@rahulsamant_2674/python-rabbitmq-8c1c3b79ab3d>
+<!-- Baseado num artigo em: <https://medium.com/@rahulsamant_2674/python-rabbitmq-8c1c3b79ab3d> -->
 
 ## Tecnologias
 
